@@ -1,0 +1,15 @@
+[package]
+name = "studs"
+version = "0.1.0"
+authors = ["Julius Schumacher <juliusschumacher@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fastping-rs = "0.1.4"
+log = "0.4.0"
+env_logger = "0.7.1"
+dns-lookup = "1.0.1"
+oping = "0.3.3"
+rasciigraph = "0.1.0"
